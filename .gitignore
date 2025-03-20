@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+.DS_Store
+.sqlite
+s3_credentials.sh
+to_do.txt
+test.ipynb
+
