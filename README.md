@@ -2,6 +2,7 @@
 Repo for analysis of the Nomic Bio proteomics pilot data, collected as part of the OASIS Consortium.
 
 ## Repo structure
+Each of the numbered folders is an analysis module. Each module contains some collection of Python scripts, Jupyter notebooks, and R scripts. There are three additional folders: **inputs** for any input data that is tracked in the repository or instructions for how to download from online, **outputs** for any processed data or summary tables generated throughout the analysis, and **figures** for any output figures. 
 
 ## How to contribute
 Fork the repo (click the 'Fork' button in the top right), clone the fork to your local computer, and create a new branch:
