@@ -1,0 +1,21 @@
+{
+    "features": "cellprofiler",
+    "name": "mad_featselect_ap",
+    "workflow": "mad_featselect",
+    "num_sds": 2,
+    "iqr_scale": 100,
+    "clip_value": 500,
+    "cover_var": 0.95,
+    "treatment": "Metadata_Perturbation",
+    "compound": "Metadata_Compound Name",
+    "control": "DMSO",
+    "distances_R": [],
+    "distances_python": ["ap"],
+    "categories": [
+        "Cells_AGP", "Cells_DNA", "Cells_Mito", "Cells_RNA", "Cells_ER", "Cells_AreaShape",
+        "Nuclei_AGP", "Nuclei_DNA", "Nuclei_Mito", "Nuclei_RNA", "Nuclei_ER", "Nuclei_AreaShape",
+        "Cytoplasm_AGP", "Cytoplasm_DNA", "Cytoplasm_Mito", "Cytoplasm_RNA", "Cytoplasm_ER", "Cytoplasm_AreaShape"
+    ],
+    "dist_transform": "none",
+    "outlier_feat_thresh": 10000000
+}
