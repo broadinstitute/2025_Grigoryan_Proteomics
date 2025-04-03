@@ -74,7 +74,7 @@ def compute_negcon_stats(parquet_path, neg_stats_path):
     dframe = pd.read_parquet(parquet_path)
     logger.info("Removing nan and inf columns")
     dframe = remove_nan_infs_columns(dframe)
-    negcon = dframe.query('Metadata_Compound == "DMSO"')
+    negcon = dframe.query('Metadata_Compound Name== "DMSO"')
     logger.info("computing stats for negcons")
     neg_stats = get_plate_stats(negcon)
     logger.info("stats done.")
@@ -108,3 +108,4 @@ def compute_stats(parquet_path, stats_path):
     dframe = pd.read_parquet(parquet_path)
     fea_stats = get_feat_stats(dframe)
     fea_stats.to_parquet(stats_path)
+

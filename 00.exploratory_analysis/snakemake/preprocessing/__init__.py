@@ -4,3 +4,5 @@ from . import outliers as outliers
 from . import stats as stats
 from . import transform as transform
 from .feature_selection import select_features as select_features
+
+from .io import merge_parquet, split_parquet

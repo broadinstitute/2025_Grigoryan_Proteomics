@@ -1,9 +1,0 @@
-Assuming unrestricted shared filesystem usage.
-None
-host: MacBook-Pro-de-Grigoryan.local
-Building DAG of jobs...
-MissingInputException in rule compute_negcon_stats in file "/Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/snakemake/rules/common.smk", line 13:
-Missing input files for rule compute_negcon_stats:
-    output: outputs/cellprofiler/mad_featselect_ap/profiles/neg_stats.parquet
-    affected files:
-        inputs/profiles/cellprofiler/raw.parquet
