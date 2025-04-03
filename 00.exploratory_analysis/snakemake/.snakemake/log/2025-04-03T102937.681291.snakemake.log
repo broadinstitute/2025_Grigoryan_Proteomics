@@ -1,0 +1,69 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: MacBook-Pro-de-Grigoryan.local
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                     count
+--------------------  -------
+compute_negcon_stats        1
+total                       1
+
+Select jobs to execute...
+Execute 1 jobs...
+[Thu Apr  3 10:29:37 2025]
+localrule compute_negcon_stats:
+    input: /Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/CP_data/raw.parquet
+    output: outputs/profiles/neg_stats.parquet
+    jobid: 0
+    reason: Missing output files: outputs/profiles/neg_stats.parquet
+    resources: tmpdir=/var/folders/s6/prvmffjx7bl2mwcbcpxy05ph0000gn/T
+Shell command: None
+Waiting for more resources.
+Traceback (most recent call last):
+
+  File "/opt/anaconda3/lib/python3.12/site-packages/snakemake/executors/local.py", line 232, in spawn_job
+    subprocess.check_call(cmd, shell=True)
+
+  File "/opt/anaconda3/lib/python3.12/subprocess.py", line 413, in check_call
+    raise CalledProcessError(retcode, cmd)
+
+subprocess.CalledProcessError: Command 'cd /Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/snakemake && /opt/anaconda3/bin/python3.12 -m snakemake --snakefile '/Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/snakemake/Snakefile' --target-jobs 'compute_negcon_stats:' --allowed-rules compute_negcon_stats --cores 4 --attempt 1 --force-use-threads  --force --target-files-omit-workdir-adjustment --max-inventory-time 0 --nocolor --notemp --no-hooks --nolock --ignore-incomplete --rerun-triggers code mtime input params software-env --conda-frontend 'conda' --shared-fs-usage input-output software-deployment source-cache persistence sources storage-local-copies --wrapper-prefix 'https://github.com/snakemake/snakemake-wrappers/raw/' --printshellcmds  --latency-wait 5 --scheduler 'ilp' --local-storage-prefix base64//LnNuYWtlbWFrZS9zdG9yYWdl --scheduler-solver-path '/opt/anaconda3/bin' --default-resources base64//dG1wZGlyPXN5c3RlbV90bXBkaXI= --quiet progress rules host --mode 'subprocess' --local-groupid 'local'' returned non-zero exit status 1.
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "/opt/anaconda3/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+
+  File "/opt/anaconda3/lib/python3.12/site-packages/snakemake/executors/local.py", line 234, in spawn_job
+    raise SpawnedJobError()
+
+snakemake.exceptions.SpawnedJobError
+
+[Thu Apr  3 10:29:39 2025]
+Error in rule compute_negcon_stats:
+    message: None
+    jobid: 0
+    input: /Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/CP_data/raw.parquet
+    output: outputs/profiles/neg_stats.parquet
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Thu Apr  3 10:29:39 2025]
+Error in rule compute_negcon_stats:
+    message: None
+    jobid: 0
+    input: /Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/CP_data/raw.parquet
+    output: outputs/profiles/neg_stats.parquet
+Complete log(s): /Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/snakemake/.snakemake/log/2025-04-03T102937.681291.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

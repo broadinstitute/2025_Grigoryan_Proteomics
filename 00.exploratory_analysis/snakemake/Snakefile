@@ -1,4 +1,4 @@
-configfile: "./cellprofiler_ap.json"
+configfile: "/Users/grigoryanmariam/newproject/2025_Grigoryan_Proteomics/00.exploratory_analysis/snakemake/cellprofiler_ap.json"
 
 
 # Load rules
