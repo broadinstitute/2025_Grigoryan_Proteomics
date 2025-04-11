@@ -1,0 +1,264 @@
+nelisa_id,uniprot_id,protein_name,max_nelisa_signal,gene_symbol,ensembl_gene_id,Gene name,Reliability,Main location,Additional location,Extracellular location,Enhanced,Supported,Approved,Uncertain,Single-cell variation intensity,Single-cell variation spatial,Cell cycle dependency,GO id
+nEL01601,P08476,Activin A,124.58,INHBA,ENSG00000122641,,,,,,,,,,,,,
+nEL02541,O14672,ADAM10,108.37,ADAM10,ENSG00000137845,ADAM10,Supported,Plasma membrane;Vesicles,,,,Plasma membrane;Vesicles,,,,,,Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL02951,P78536,ADAM17 (TACE),90.64,ADAM17,ENSG00000151694,ADAM17,Approved,Cytosol,,,,,Cytosol,,Cytosol,,,Cytosol (GO:0005829)
+nEL03451,Q9UKQ2,ADAM28,37.15,ADAM28,ENSG00000042980,ADAM28,Approved,Plasma membrane,Mitochondria,Predicted to be secreted,,Plasma membrane,Mitochondria,,,,,Mitochondria (GO:0005739);Plasma membrane (GO:0005886)
+nEL03051,Q13443,ADAM9,221.68,ADAM9,ENSG00000168615,ADAM9,Approved,Vesicles,Endoplasmic reticulum,Predicted to be secreted,,,Endoplasmic reticulum;Vesicles,,,,,Endoplasmic reticulum (GO:0005783);Vesicles (GO:0043231)
+nEL03441,Q9UHI8,ADAM-TS 1,289.62,ADAMTS1,ENSG00000154734,ADAMTS1,Uncertain,Plasma membrane,,Predicted to be secreted,,,,Plasma membrane,,,,Plasma membrane (GO:0005886)
+nEL03461,Q9UNA0,ADAM-TS 5,96.4,ADAMTS5,ENSG00000154736,ADAMTS5,Supported,Nucleoplasm,,Predicted to be secreted,,Nucleoplasm,,,,,,Nucleoplasm (GO:0005654)
+nEL03131,Q15848,Adiponectin,110.89,ADIPOQ,ENSG00000181092,,,,,,,,,,,,,
+nEL01701,Q9UNG2,AITRL (GITR Ligand),139.45,TNFSF18,ENSG00000120337,,,,,,,,,,,,,
+nEL03101,Q15389,ANGPT1,148.34,ANGPT1,ENSG00000154188,,,,,,,,,,,,,
+nEL03471,Q9Y5C1,ANGPTL3,110.17,ANGPTL3,ENSG00000132855,,,,,,,,,,,,,
+nEL03311,Q9BY76,ANGPTL4,156.1,ANGPTL4,ENSG00000167772,ANGPTL4,Approved,Nucleoplasm;Vesicles,,Predicted to be secreted,,,Nucleoplasm;Vesicles,,,,,Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL02571,O43827,ANGPTL7,65.77,ANGPTL7,ENSG00000171819,,,,,,,,,,,,,
+nEL02161,P05067,APP,174.22,APP,ENSG00000142192,APP,Supported,Golgi apparatus,Vesicles,Predicted to be secreted,,Golgi apparatus,Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL00011,O75888,APRIL,58.64,TNFSF13,ENSG00000161955,,,,,,,,,,,,,
+nEL02061,P15514,AREG,114.46,AREG,ENSG00000109321,AREG,Approved,Mitochondria,,,,,Mitochondria,,Mitochondria,,,Mitochondria (GO:0005739)
+nEL00021,Q9Y275,BAFF,68.14,TNFSF13B,ENSG00000102524,TNFSF13B,Supported,Plasma membrane,Focal adhesion sites;Vesicles,Predicted to be secreted,,Plasma membrane,Focal adhesion sites;Vesicles,,,,,Focal adhesion sites (GO:0005925);Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL02051,Q02223,BCMA,194.16,TNFRSF17,ENSG00000048462,TNFRSF17,Approved,Golgi apparatus,Mitotic spindle,,,,Golgi apparatus,Mitotic spindle,Mitotic spindle,,Mitotic spindle (biological definition),Golgi apparatus (GO:0005794);Mitotic spindle (GO:0072686)
+nEL01651,P12643,BMP2,41.66,BMP2,ENSG00000125845,BMP2,Enhanced,Vesicles,Plasma membrane;Primary cilium;Primary cilium transition zone,Predicted to be secreted,Vesicles,,Plasma membrane;Primary cilium;Primary cilium transition zone,,,,,Plasma membrane (GO:0005886);Primary cilium (GO:0005929);Primary cilium transition zone ();Vesicles (GO:0043231)
+nEL01661,P12645,BMP3,50.26,BMP3,ENSG00000152785,,,,,,,,,,,,,
+nEL01671,P12644,BMP4,123.09,BMP4,ENSG00000125378,,,,,,,,,,,,,
+nEL01681,P22004,BMP6,48.5,BMP6,ENSG00000153162,BMP6,Enhanced,Mitochondria,,Predicted to be secreted,Mitochondria,,,,Mitochondria,,,Mitochondria (GO:0005739)
+nEL01691,P18075,BMP7,151.94,BMP7,ENSG00000101144,BMP7,Approved,Vesicles,Nucleoplasm,Predicted to be secreted,,,Vesicles,Nucleoplasm,,,,Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL02071,Q9UK05,BMP9,200.95,GDF2,ENSG00000263761,,,,,,,,,,,,,
+nEL03251,Q96GW7,Brevican,135.75,BCAN,ENSG00000132692,,,,,,,,,,,,,
+nEL01951,P01031,C5/C5a,48.04,C5,ENSG00000106804,,,,,,,,,,,,,
+nEL01311,P05937,Calbindin,142.37,CALB1,ENSG00000104327,CALB1,Approved,Vesicles,,,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL00111,P51671,CCL11,55.63,CCL11,ENSG00000172156,,,,,,,,,,,,,
+nEL00122,Q99616,CCL13,110.47,CCL13,ENSG00000181374,,,,,,,,,,,,,
+nEL00131,Q16627,CCL14,46.4,CCL14,ENSG00000277236,,,,,,,,,,,,,
+nEL00141,Q16663,CCL15,137.06,CCL15,ENSG00000275528,,,,,,,,,,,,,
+nEL00151,O15467,CCL16,35.46,CCL16,ENSG00000275095,,,,,,,,,,,,,
+nEL00161,Q92583,CCL17,59.2,CCL17,ENSG00000102970,,,,,,,,,,,,,
+nEL00172,P55774,CCL18,150.0,CCL18,ENSG00000278006,,,,,,,,,,,,,
+nEL00181,Q99731,CCL19,192.29,CCL19,ENSG00000172724,,,,,,,,,,,,,
+nEL00051,P13500,CCL2,121.56,CCL2,ENSG00000108691,CCL2,Approved,Golgi apparatus,Vesicles,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL00191,P78556,CCL20,79.66,CCL20,ENSG00000115009,,,,,,,,,,,,,
+nEL00201,O00585,CCL21,163.38,CCL21,ENSG00000137077,,,,,,,,,,,,,
+nEL00221,P55773,CCL23,126.74,CCL23,ENSG00000276114,,,,,,,,,,,,,
+nEL00231,O00175,CCL24,152.8,CCL24,ENSG00000106178,,,,,,,,,,,,,
+nEL00241,O15444,CCL25,72.41,CCL25,ENSG00000131142,,,,,,,,,,,,,
+nEL00261,Q9Y4X3,CCL27,90.56,CCL27,ENSG00000213927,,,,,,,,,,,,,
+nEL00271,Q9NRJ3,CCL28,94.11,CCL28,ENSG00000151882,,,,,,,,,,,,,
+nEL00061,P10147,CCL3,173.61,CCL3,ENSG00000278567,,,,,,,,,,,,,
+nEL00071,P13236,CCL4,211.18,CCL4,ENSG00000277943,,,,,,,,,,,,,
+nEL00081,P13501,CCL5,147.48,CCL5,ENSG00000274233,,,,,,,,,,,,,
+nEL00091,P80098,CCL7,102.56,CCL7,ENSG00000108688,,,,,,,,,,,,,
+nEL02251,P08571,CD14,79.11,CD14,ENSG00000170458,CD14,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL01471,Q86VB7,CD163,56.17,CD163,ENSG00000177575,CD163,Supported,Plasma membrane,,Predicted to be secreted,,Plasma membrane,,,,,,Plasma membrane (GO:0005886)
+nEL03351,Q9NNX6,CD209 antigen,140.92,CD209,ENSG00000090659,,,,,,,,,,,,,
+nEL01321,Q5ZPR3,CD276 (B7-H3),72.96,CD276,ENSG00000103855,CD276,Approved,Vesicles,,,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL01751,P32970,CD27L,268.05,CD70,ENSG00000125726,CD70,Uncertain,Nucleoplasm,,,,,,Nucleoplasm,,,,Nucleoplasm (GO:0005654)
+nEL00291,P29965,CD40L,261.41,CD40LG,ENSG00000102245,CD40LG,Approved,Golgi apparatus;Plasma membrane,,Predicted to be secreted,,Plasma membrane,,Golgi apparatus,,,,Golgi apparatus (GO:0005794);Plasma membrane (GO:0005886)
+nEL02911,P33681,CD80 (B7-1),127.12,CD80,ENSG00000121594,,,,,,,,,,,,,
+nEL03191,P42081,CD86 (B7-2),169.62,CD86,ENSG00000114013,CD86,Supported,Plasma membrane,Centriolar satellite,,,Plasma membrane,,Centriolar satellite,,,,Centriolar satellite (GO:0034451);Plasma membrane (GO:0005886)
+nEL02681,P36222,CHI3L1,67.86,CHI3L1,ENSG00000133048,CHI3L1,Approved,Golgi apparatus,Vesicles,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL02851,P23946,Chymase,33.4,CMA1,ENSG00000092009,CMA1,Supported,Cytoplasmic bodies,Cytosol,Predicted to be secreted,,Cytoplasmic bodies,Cytosol,,,,,Cytoplasmic bodies (GO:0036464);Cytosol (GO:0005829)
+nEL03411,Q9UBD9,CLC,61.48,CLCF1,ENSG00000175505,CLCF1,Approved,Nuclear bodies;Vesicles,,Predicted to be secreted,,,Nuclear bodies;Vesicles,,,,,Nuclear bodies (GO:0016604);Vesicles (GO:0043231)
+nEL02041,P26441,CNTF,100.88,CNTF,ENSG00000242689,CNTF,Approved,Vesicles,,,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL00301,P02741,CRP,133.17,CRP,ENSG00000132693,CRP,Approved,Nucleoplasm;Vesicles,Intermediate filaments,Predicted to be secreted,,Vesicles,Intermediate filaments;Nucleoplasm,,,,,Intermediate filaments (GO:0045111);Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL00491,P78423,CX3CL1,122.49,CX3CL1,ENSG00000006210,CX3CL1,Supported,Plasma membrane,,Predicted to be secreted,,Plasma membrane,,,,,,Plasma membrane (GO:0005886)
+nEL00311,P09341,CXCL1,153.35,CXCL1,ENSG00000163739,,,,,,,,,,,,,
+nEL00391,P02778,CXCL10,92.9,CXCL10,ENSG00000169245,,,,,,,,,,,,,
+nEL00401,O14625,CXCL11,112.26,CXCL11,ENSG00000169248,,,,,,,,,,,,,
+nEL00411,P48061,CXCL12 (alpha),85.07,CXCL12,ENSG00000107562,,,,,,,,,,,,,
+nEL02271,P48061,CXCL12 (beta),61.58,CXCL12,ENSG00000107562,,,,,,,,,,,,,
+nEL00421,O43927,CXCL13,37.39,CXCL13,ENSG00000156234,,,,,,,,,,,,,
+nEL00431,O95715,CXCL14,107.3,CXCL14,ENSG00000145824,,,,,,,,,,,,,
+nEL00441,Q9H2A7,CXCL16,88.21,CXCL16,ENSG00000161921,CXCL16,Approved,Golgi apparatus;Vesicles,,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL00452,Q6UXB2,CXCL17,69.43,CXCL17,ENSG00000189377,,,,,,,,,,,,,
+nEL00331,P19876,CXCL3,35.82,CXCL3,ENSG00000163734,,,,,,,,,,,,,
+nEL00341,P02776,CXCL4,118.68,PF4,ENSG00000163737,,,,,,,,,,,,,
+nEL00351,P42830,CXCL5,159.05,CXCL5,ENSG00000163735,CXCL5,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL00361,P80162,CXCL6,55.76,CXCL6,ENSG00000124875,,,,,,,,,,,,,
+nEL00371,P02775,CXCL7,71.72,PPBP,ENSG00000163736,,,,,,,,,,,,,
+nEL00381,Q07325,CXCL9,100.6,CXCL9,ENSG00000138755,,,,,,,,,,,,,
+nEL02211,P99999,Cytochrome C,283.99,CYCS,ENSG00000172115,CYCS,Supported,Mitochondria,,,Mitochondria,,,,,,,Mitochondria (GO:0005739)
+nEL02641,P07585,Decorin,130.88,DCN,ENSG00000011465,,,,,,,,,,,,,
+nEL02891,P27487,DPP4 (CD26),85.05,DPP4,ENSG00000197635,,,,,,,,,,,,,
+nEL03371,Q93038,DR3,94.3,TNFRSF25,ENSG00000215788,TNFRSF25,Approved,Actin filaments;Focal adhesion sites;Plasma membrane,Nucleoplasm,Predicted to be secreted,,,Actin filaments;Focal adhesion sites;Nucleoplasm;Plasma membrane,,,,,Actin filaments (GO:0015629);Focal adhesion sites (GO:0005925);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886)
+nEL02531,O00220,DR4 (TRAIL R1),161.75,TNFRSF10A,ENSG00000104689,,,,,,,,,,,,,
+nEL02601,O75509,DR6,377.35,TNFRSF21,ENSG00000146072,TNFRSF21,Supported,Cytosol;Plasma membrane,,,,Plasma membrane,Cytosol,,Plasma membrane,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL03141,Q16610,ECM1,123.9,ECM1,ENSG00000143369,ECM1,Approved,Cytosol,Nucleoplasm,Predicted to be secreted,,,Cytosol;Nucleoplasm,,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654)
+nEL00461,P01133,EGF,129.66,EGF,ENSG00000138798,,,,,,,,,,,,,
+nEL01801,P00533,EGFR,220.36,EGFR,ENSG00000146648,EGFR,Supported,Golgi apparatus;Plasma membrane,Basal body;Cell Junctions;Cytosol;End piece;Mid piece;Nucleoli;Primary cilium;Principal piece,Predicted to be secreted,,Golgi apparatus;Nucleoli;Plasma membrane,Cell Junctions;End piece;Mid piece;Principal piece,Basal body;Cytosol;Primary cilium,Basal body;Primary cilium,,,Basal body (GO:0036064);Cell Junctions (GO:0030054);Cytosol (GO:0005829);End piece ();Golgi apparatus (GO:0005794);Mid piece ();Nucleoli (GO:0005730);Plasma membrane (GO:0005886);Primary cilium (GO:0005929);Principal piece ()
+nEL02661,P08246,ELA2,216.04,ELANE,ENSG00000277571,,,,,,,,,,,,,
+nEL01351,P35613,EMMPRIN,175.64,BSG,ENSG00000172270,BSG,Approved,Vesicles,End piece;Mid piece;Principal piece,,,,End piece;Mid piece;Principal piece;Vesicles,,,,,End piece ();Mid piece ();Principal piece ();Vesicles (GO:0043231)
+nEL02801,P17813,Endoglin (CD105),111.36,ENG,ENSG00000106991,ENG,Supported,Plasma membrane,,,,Plasma membrane,,,,,,Plasma membrane (GO:0005886)
+nEL02791,P16581,E-Selectin (CD62E),161.96,SELE,ENSG00000007908,,,,,,,,,,,,,
+nEL02881,P25445,FAS,118.74,FAS,ENSG00000026103,FAS,Supported,Plasma membrane,Cytosol;Nuclear bodies,Predicted to be secreted,,Plasma membrane,Cytosol;Nuclear bodies,,,,,Cytosol (GO:0005829);Nuclear bodies (GO:0016604);Plasma membrane (GO:0005886)
+nEL01721,P48023,FAS-L,284.02,FASLG,ENSG00000117560,,,,,,,,,,,,,
+nEL03421,Q9UGM5,Fetuin-B,67.54,FETUB,ENSG00000090512,FETUB,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,Vesicles,,,Vesicles (GO:0043231)
+nEL00471,P05230,FGF-1,61.02,FGF1,ENSG00000113578,FGF1,Supported,Nucleoplasm,,Predicted to be secreted,,Nucleoplasm,,,,,,Nucleoplasm (GO:0005654)
+nEL02141,O95750,FGF-19,166.68,FGF19,ENSG00000162344,,,,,,,,,,,,,
+nEL00481,P09038,FGF-2,121.81,FGF2,ENSG00000138685,FGF2,Supported,Nuclear bodies;Nucleoplasm,,Predicted to be secreted,,Nuclear bodies;Nucleoplasm,,,,,,Nuclear bodies (GO:0016604);Nucleoplasm (GO:0005654)
+nEL02191,Q9NSA1,FGF-21,321.11,FGF21,ENSG00000105550,,,,,,,,,,,,,
+nEL02101,P08620,FGF-4,43.84,FGF4,ENSG00000075388,,,,,,,,,,,,,
+nEL02111,P10767,FGF-6,69.15,FGF6,ENSG00000111241,,,,,,,,,,,,,
+nEL02131,P21781,FGF-7 (KGF),135.87,FGF7,ENSG00000140285,FGF7,Approved,Nucleoli;Nucleoplasm,,Predicted to be secreted,,,Nucleoli;Nucleoplasm,,,,,Nucleoli (GO:0005730);Nucleoplasm (GO:0005654)
+nEL02121,P31371,FGF-9,244.38,FGF9,ENSG00000102678,,,,,,,,,,,,,
+nEL01362,P22607,FGFR3 (IIIc),92.09,FGFR3,ENSG00000068078,FGFR3,Supported,Endoplasmic reticulum,,Predicted to be secreted,,Endoplasmic reticulum,,,,,,Endoplasmic reticulum (GO:0005783)
+nEL03021,Q12805,Fibulin-3,172.8,EFEMP1,ENSG00000115380,EFEMP1,Supported,Mitochondria,,Predicted to be secreted,Mitochondria,,,,,,,Mitochondria (GO:0005739)
+nEL03111,Q15485,Ficolin-2,177.44,FCN2,ENSG00000160339,,,,,,,,,,,,,
+nEL02021,O95633,FLRG (FSTL3),100.31,FSTL3,ENSG00000070404,FSTL3,Supported,Nucleoplasm,,Predicted to be secreted,,Nucleoplasm,,,,,,Nucleoplasm (GO:0005654)
+nEL02691,P36888,Flt-3,92.25,FLT3,ENSG00000122025,FLT3,Approved,Endoplasmic reticulum,,,,,Endoplasmic reticulum,,,,,Endoplasmic reticulum (GO:0005783)
+nEL01771,P49771,Flt-3 Ligand,162.24,FLT3LG,ENSG00000090554,,,,,,,,,,,,,
+nEL02721,P09382,Galectin-1,70.95,LGALS1,ENSG00000100097,LGALS1,Supported,Cytosol,,Predicted to be secreted,,Cytosol,,,Cytosol,,,Cytosol (GO:0005829)
+nEL02811,P17931,Galectin-3,79.34,LGALS3,ENSG00000131981,LGALS3,Supported,Cytosol;Nucleoplasm,Plasma membrane,Predicted to be secreted,,Cytosol;Nucleoplasm,,Plasma membrane,Cytosol,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886)
+nEL02521,O00182,Galectin-9,84.94,LGALS9,ENSG00000168961,LGALS9,Supported,Cytosol,,Predicted to be secreted,,Cytosol,,,,,,Cytosol (GO:0005829)
+nEL03071,Q14393,GAS6,191.8,GAS6,ENSG00000183087,GAS6,Approved,Cytosol,Centriolar satellite,Predicted to be secreted,,,Centriolar satellite;Cytosol,,,,,Centriolar satellite (GO:0034451);Cytosol (GO:0005829)
+nEL00501,P09919,G-CSF,99.32,CSF3,ENSG00000108342,,,,,,,,,,,,,
+nEL01791,O95390,GDF-11 (BMP-11),154.32,GDF11,ENSG00000135414,GDF11,Approved,Vesicles,Golgi apparatus,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL01981,Q99988,GDF-15 (MIC-1),162.7,GDF15,ENSG00000130513,GDF15,Enhanced,Golgi apparatus,,Predicted to be secreted,Golgi apparatus,,,,,,,Golgi apparatus (GO:0005794)
+nEL02031,P39905,GDNF,197.95,GDNF,ENSG00000168621,GDNF,Approved,Vesicles,Nucleoplasm,Predicted to be secreted,,,Vesicles,Nucleoplasm,,,,Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL01421,P01241,GH1,218.6,GH1,ENSG00000259384,,,,,,,,,,,,,
+nEL03481,Q9Y5U5,GITR,76.66,TNFRSF18,ENSG00000186891,,,,,,,,,,,,,
+nEL00511,P04141,GM-CSF,136.74,CSF2,ENSG00000164400,CSF2,Enhanced,Vesicles,,Predicted to be secreted,Vesicles,,,,Vesicles,,,Vesicles (GO:0043231)
+nEL00531,P10144,Granzyme B,41.62,GZMB,ENSG00000100453,GZMB,Approved,Calyx,,Predicted to be secreted,,,Calyx,,,,,Calyx ()
+nEL00542,P14210,HGF,235.34,HGF,ENSG00000019991,,,,,,,,,,,,,
+nEL02671,P08581,HGF R (c-MET),95.35,MET,ENSG00000105976,MET,Approved,Plasma membrane,Cytosol,Predicted to be secreted,,,Plasma membrane,Cytosol,,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL00551,Q92956,HVEM,297.83,TNFRSF14,ENSG00000273936,,,,,,,,,,,,,
+nEL00561,P05362,ICAM-1,106.84,ICAM1,ENSG00000090339,ICAM1,Approved,Plasma membrane,Cytosol;Vesicles,,,,Cytosol;Plasma membrane;Vesicles,,Plasma membrane,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL00571,P13598,ICAM-2,141.83,ICAM2,ENSG00000108622,ICAM2,Approved,Plasma membrane,Cytosol,,,,Plasma membrane,Cytosol,,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL02591,O75144,ICOSL (B7-H2),71.6,ICOSLG,ENSG00000160223,ICOSLG,Approved,Plasma membrane;Vesicles,,,,Plasma membrane,,Vesicles,,,,Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL01761,P01563,IFN alpha 2,122.13,IFNA2,ENSG00000188379,,,,,,,,,,,,,
+nEL00591,P01574,IFN beta,76.36,IFNB1,ENSG00000171855,,,,,,,,,,,,,
+nEL02221,Q86WN2,IFN-epsilon,153.98,IFNE,ENSG00000184995,,,,,,,,,,,,,
+nEL00603,P01579,IFN gamma,216.04,IFNG,ENSG00000111537,,,,,,,,,,,,,
+nEL01731,P05019,IGF-1,23.4,IGF1,ENSG00000017427,,,,,,,,,,,,,
+nEL02821,P17936,IGFBP-3,102.56,IGFBP3,ENSG00000146674,IGFBP3,Uncertain,Vesicles,,Predicted to be secreted,,,,Vesicles,,,,Vesicles (GO:0043231)
+nEL02871,P24592,IGFBP-6,121.73,IGFBP6,ENSG00000167779,,,,,,,,,,,,,
+nEL00742,P22301,IL-10,233.15,IL10,ENSG00000136634,,,,,,,,,,,,,
+nEL03011,Q08334,IL-10 RB,113.43,IL10RB,ENSG00000243646,IL10RB,Approved,Cytosol,,,,,Cytosol,,,,,Cytosol (GO:0005829)
+nEL01641,P20809,IL-11,130.88,IL11,ENSG00000095752,,,,,,,,,,,,,
+nEL02311,P29459,IL-12 p35,91.41,IL12A,ENSG00000168811,,,,,,,,,,,,,
+nEL00752,P29460,IL-12 p40,102.37,IL12B,ENSG00000113302,,,,,,,,,,,,,
+nEL00761,P29459,IL-12 p70,130.73,IL12A,ENSG00000168811,,,,,,,,,,,,,
+nEL03201,P42701,IL-12 RB,61.14,IL12RB1,ENSG00000096996,IL12RB1,Approved,Plasma membrane,,,,,Plasma membrane,,,,,Plasma membrane (GO:0005886)
+nEL02511,P35225,IL-13,123.49,IL13,ENSG00000169194,,,,,,,,,,,,,
+nEL00781,P40933,IL-15,205.73,IL15,ENSG00000164136,IL15,Supported,Nuclear speckles;Nucleoplasm,,Predicted to be secreted,,Nuclear speckles;Nucleoplasm,,,,,,Nuclear speckles (GO:0016607);Nucleoplasm (GO:0005654)
+nEL01781,P40933,IL-15/IL-15RA complex,112.96,IL15,ENSG00000164136,IL15,Supported,Nuclear speckles;Nucleoplasm,,Predicted to be secreted,,Nuclear speckles;Nucleoplasm,,,,,,Nuclear speckles (GO:0016607);Nucleoplasm (GO:0005654)
+nEL00791,Q14005,IL-16,147.61,IL16,ENSG00000172349,IL16,Approved,Nuclear speckles,Cytosol;Plasma membrane,Predicted to be secreted,,Cytosol;Nuclear speckles,,Plasma membrane,,,,Cytosol (GO:0005829);Nuclear speckles (GO:0016607);Plasma membrane (GO:0005886)
+nEL00801,Q16552,IL-17A,221.3,IL17A,ENSG00000112115,,,,,,,,,,,,,
+nEL00811,Q9UHF5,IL-17B,95.85,IL17B,ENSG00000127743,,,,,,,,,,,,,
+nEL00821,Q9P0M4,IL-17C,292.1,IL17C,ENSG00000124391,,,,,,,,,,,,,
+nEL00831,Q8TAD2,IL-17D,161.91,IL17D,ENSG00000172458,,,,,,,,,,,,,
+nEL02261,Q9H293,IL-17E (IL-25),221.69,IL25,ENSG00000166090,,,,,,,,,,,,,
+nEL00841,Q96PD4,IL-17F,167.29,IL17F,ENSG00000112116,,,,,,,,,,,,,
+nEL00621,Q14116,IL-18,101.6,IL18,ENSG00000150782,IL18,Approved,Golgi apparatus;Nucleoplasm,Cytosol,Predicted to be secreted,,,Cytosol;Golgi apparatus,Nucleoplasm,,,,Cytosol (GO:0005829);Golgi apparatus (GO:0005794);Nucleoplasm (GO:0005654)
+nEL00612,P01583,IL-1 alpha,180.94,IL1A,ENSG00000115008,IL1A,Supported,Cytosol,,Predicted to be secreted,,Cytosol,,,,,,Cytosol (GO:0005829)
+nEL00852,P01584,IL-1 beta,111.12,IL1B,ENSG00000125538,,,,,,,,,,,,,
+nEL00641,P14778,IL-1 RA,153.97,IL1R1,ENSG00000115594,IL1R1,Approved,Nucleoplasm;Vesicles,Cytosol;Plasma membrane,Predicted to be secreted,,,Cytosol;Nucleoplasm;Plasma membrane;Vesicles,,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL03391,Q9NPH3,IL-1 RAcP,124.66,IL1RAP,ENSG00000196083,IL1RAP,Approved,Cytosol;Vesicles,,Predicted to be secreted,,,Cytosol;Vesicles,,,,,Cytosol (GO:0005829);Vesicles (GO:0043231)
+nEL00631,P18510,IL-1 RA/RN,92.68,IL1RN,ENSG00000136689,IL1RN,Approved,Cytosol;Nucleoplasm,Centrosome,Predicted to be secreted,,Cytosol,,Centrosome;Nucleoplasm,,,,Centrosome (GO:0005813);Cytosol (GO:0005829);Nucleoplasm (GO:0005654)
+nEL02901,P27930,IL-1 RB,87.64,IL1R2,ENSG00000115590,,,,,,,,,,,,,
+nEL00651,P60568,IL-2,145.48,IL2,ENSG00000109471,,,,,,,,,,,,,
+nEL00871,Q9HBE4,IL-21,162.31,IL21,ENSG00000138684,,,,,,,,,,,,,
+nEL00881,Q9GZX6,IL-22,127.99,IL22,ENSG00000127318,,,,,,,,,,,,,
+nEL00891,Q969J5,IL-22 BP,50.95,IL22RA2,ENSG00000164485,,,,,,,,,,,,,
+nEL00901,Q9NPF7,IL-23,124.79,IL23A,ENSG00000110944,IL23A,Approved,Cytosol,,Predicted to be secreted,,,Cytosol,,,,,Cytosol (GO:0005829)
+nEL01611,Q13007,IL-24,180.57,IL24,ENSG00000162892,,,,,,,,,,,,,
+nEL00911,Q8NEV9,IL-27,177.22,IL27,ENSG00000197272,,,,,,,,,,,,,
+nEL00921,Q8IZJ0,IL-28A,110.76,IFNL2,ENSG00000291875,,,,,,,,,,,,,
+nEL00931,Q8IU54,IL-29,50.13,IFNL1,ENSG00000291872,,,,,,,,,,,,,
+nEL00661,P01589,IL-2 RA (CD25),92.93,IL2RA,ENSG00000134460,,,,,,,,,,,,,
+nEL00671,P08700,IL-3,37.83,IL3,ENSG00000164399,,,,,,,,,,,,,
+nEL00941,Q6EBC2,IL-31,325.76,IL31,ENSG00000204671,,,,,,,,,,,,,
+nEL00951,P24001,IL-32,123.39,IL32,ENSG00000008517,,,,,,,,,,,,,
+nEL00961,O95760,IL-33,197.04,IL33,ENSG00000137033,IL33,Supported,Nucleoplasm,Vesicles,Predicted to be secreted,,Nucleoplasm;Vesicles,,,Nucleoplasm;Vesicles,,,Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL02181,Q01638,IL-33 R (ST2),53.13,IL1RL1,ENSG00000115602,IL1RL1,Supported,Plasma membrane,Cytosol;Focal adhesion sites,Predicted to be secreted,,Plasma membrane,Cytosol;Focal adhesion sites,,,,,Cytosol (GO:0005829);Focal adhesion sites (GO:0005925);Plasma membrane (GO:0005886)
+nEL00971,Q14213,IL-35,105.67,EBI3,ENSG00000105246,,,,,,,,,,,,,
+nEL03431,Q9UHA7,IL-36 alpha,150.47,IL36A,ENSG00000136694,,,,,,,,,,,,,
+nEL03341,Q9HB29,IL-36 R,131.29,IL1RL2,ENSG00000115598,,,,,,,,,,,,,
+nEL00682,P05112,IL-4,103.43,IL4,ENSG00000113520,,,,,,,,,,,,,
+nEL02861,P24394,IL-4 RA,47.59,IL4R,ENSG00000077238,IL4R,Supported,Plasma membrane,Centriolar satellite;Nucleoplasm,Predicted to be secreted,,Plasma membrane,,Centriolar satellite;Nucleoplasm,,,,Centriolar satellite (GO:0034451);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886)
+nEL00691,P05113,IL-5,113.85,IL5,ENSG00000113525,,,,,,,,,,,,,
+nEL00702,P05231,IL-6,127.97,IL6,ENSG00000136244,IL6,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL01521,P08887,IL-6 RA (gp80),127.36,IL6R,ENSG00000160712,,,,,,,,,,,,,
+nEL00711,P13232,IL-7,98.41,IL7,ENSG00000104432,,,,,,,,,,,,,
+nEL00722,P10145,IL-8,117.19,CXCL8,ENSG00000169429,CXCL8,Approved,Golgi apparatus,,Predicted to be secreted,,,Golgi apparatus,,Golgi apparatus,,,Golgi apparatus (GO:0005794)
+nEL00731,P15248,IL-9,189.84,IL9,ENSG00000145839,,,,,,,,,,,,,
+nEL02741,P10721,Kit (CD117),150.41,KIT,ENSG00000157404,KIT,Supported,Plasma membrane,,,,Plasma membrane,,,Plasma membrane,,,Plasma membrane (GO:0005886)
+nEL01631,P41159,Leptin,159.47,LEP,ENSG00000174697,LEP,Approved,Plasma membrane;Vesicles,,Predicted to be secreted,,,Plasma membrane;Vesicles,,,,,Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL00981,P15018,LIF,148.74,LIF,ENSG00000128342,LIF,Supported,Cytosol,,Predicted to be secreted,,Cytosol,,,,,,Cytosol (GO:0005829)
+nEL01541,P78380,LOX1 (OLR1),228.53,OLR1,ENSG00000173391,OLR1,Approved,Nucleoplasm;Plasma membrane,Vesicles,,,Plasma membrane,Vesicles,Nucleoplasm,,,,Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL02771,P14151,L-selectin (CD62L),96.2,SELL,ENSG00000188404,SELL,Uncertain,Cytosol,,,,,,Cytosol,,,,Cytosol (GO:0005829)
+nEL02751,P11226,MBP-C,113.48,MBL2,ENSG00000165471,,,,,,,,,,,,,
+nEL00992,P09603,M-CSF,203.07,CSF1,ENSG00000184371,CSF1,Supported,Plasma membrane,Nuclear bodies,Predicted to be secreted,,Plasma membrane,,Nuclear bodies,Nuclear bodies,,,Nuclear bodies (GO:0016604);Plasma membrane (GO:0005886)
+nEL01961,P07333,M-CSF R (CD115),116.31,CSF1R,ENSG00000182578,CSF1R,Supported,Plasma membrane;Vesicles,,,,Plasma membrane,Vesicles,,,,,Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL01381,Q13421,Mesothelin,210.32,MSLN,ENSG00000102854,MSLN,Supported,Plasma membrane;Vesicles,,,,Plasma membrane,Vesicles,,,,,Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL01001,P14174,MIF,108.91,MIF,ENSG00000240972,MIF,Enhanced,Cytosol,Nucleoplasm,Predicted to be secreted,Cytosol,,,Nucleoplasm,Cytosol,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654)
+nEL01011,P03956,MMP-1,156.08,MMP1,ENSG00000196611,MMP1,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL01061,P09238,MMP-10,118.28,MMP10,ENSG00000166670,MMP10,Approved,Cytosol,Plasma membrane,Predicted to be secreted,,,Cytosol;Plasma membrane,,Cytosol;Plasma membrane,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL01071,P39900,MMP-12,134.6,MMP12,ENSG00000262406,,,,,,,,,,,,,
+nEL03221,P45452,MMP-13,100.77,MMP13,ENSG00000137745,,,,,,,,,,,,,
+nEL01031,P08254,MMP-3,211.97,MMP3,ENSG00000149968,MMP3,Supported,Vesicles,,Predicted to be secreted,,Vesicles,,,,,,Vesicles (GO:0043231)
+nEL01041,P09237,MMP-7,128.03,MMP7,ENSG00000137673,MMP7,Approved,Nucleoplasm;Vesicles,Cytosol,Predicted to be secreted,,,Cytosol;Nucleoplasm;Vesicles,,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL01051,P14780,MMP-9,98.89,MMP9,ENSG00000100985,MMP9,Approved,Cytosol,,Predicted to be secreted,,,Cytosol,,,,,Cytosol (GO:0005829)
+nEL02151,P07196,NF-L,138.44,NEFL,ENSG00000277586,NEFL,Approved,Intermediate filaments;Nucleoplasm,Midbody,,,,Intermediate filaments;Midbody;Nucleoplasm,,Intermediate filaments;Midbody,,Midbody (biological definition),Intermediate filaments (GO:0045111);Midbody (GO:0030496);Nucleoplasm (GO:0005654)
+nEL02961,P80188,NGAL (lipocalin-2),242.15,LCN2,ENSG00000148346,LCN2,Supported,Endoplasmic reticulum,,Predicted to be secreted,,Endoplasmic reticulum,,,,,,Endoplasmic reticulum (GO:0005783)
+nEL01081,P01138,NGF beta,125.41,NGF,ENSG00000134259,,,,,,,,,,,,,
+nEL02091,Q02297,NRG1 beta 1,118.53,NRG1,ENSG00000157168,NRG1,Approved,Nucleoplasm,,Predicted to be secreted,,,Nucleoplasm,,,,,Nucleoplasm (GO:0005654)
+nEL01511,P13725,Oncostatin M (OSM),185.85,OSM,ENSG00000099985,,,,,,,,,,,,,
+nEL03081,Q14956,Osteoactivin (GPNMB),178.55,GPNMB,ENSG00000136235,,,,,,,,,,,,,
+nEL02001,P10451,Osteopontin (OPN),210.45,SPP1,ENSG00000118785,SPP1,Enhanced,Golgi apparatus,,Predicted to be secreted,Golgi apparatus,,,,,,,Golgi apparatus (GO:0005794)
+nEL03211,P43489,OX40,69.72,TNFRSF4,ENSG00000186827,,,,,,,,,,,,,
+nEL03091,Q15113,PCOLCE,119.89,PCOLCE,ENSG00000106333,PCOLCE,Approved,Golgi apparatus;Vesicles,,Predicted to be secreted,,,Golgi apparatus;Vesicles,,Golgi apparatus;Vesicles,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL01551,Q8NBP7,PCSK9,50.36,PCSK9,ENSG00000169174,,,,,,,,,,,,,
+nEL02971,Q15116,PD-1,137.79,PDCD1,ENSG00000276977,,,,,,,,,,,,,
+nEL01091,P01127,PDGF-BB,71.51,PDGFB,ENSG00000100311,PDGFB,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL03401,Q9NZQ7,PD-L1 (B7-H1),155.54,CD274,ENSG00000120217,CD274,Approved,Actin filaments;Plasma membrane,Nucleoplasm,,,Plasma membrane,,Actin filaments;Nucleoplasm,,,,Actin filaments (GO:0015629);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886)
+nEL03291,Q9BQ51,PD-L2,250.55,PDCD1LG2,ENSG00000197646,PDCD1LG2,Uncertain,Cytosol,,Predicted to be secreted,,,,Cytosol,,,,Cytosol (GO:0005829)
+nEL02611,O75594,PGLYRP1 (PGRP-S),90.92,PGLYRP1,ENSG00000008438,PGLYRP1,Approved,Vesicles,Cytosol;Nucleoplasm,Predicted to be secreted,,,Cytosol;Nucleoplasm;Vesicles,,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654);Vesicles (GO:0043231)
+nEL01101,P49763,PlGF,131.44,PGF,ENSG00000119630,PGF,Approved,Nucleoplasm,Cytosol;Mitochondria,Predicted to be secreted,,,Cytosol;Mitochondria;Nucleoplasm,,Mitochondria,,,Cytosol (GO:0005829);Mitochondria (GO:0005739);Nucleoplasm (GO:0005654)
+nEL02931,P51888,Prolargin,56.52,PRELP,ENSG00000188783,PRELP,Uncertain,Endoplasmic reticulum,Plasma membrane,Predicted to be secreted,,,,Endoplasmic reticulum;Plasma membrane,,,,Endoplasmic reticulum (GO:0005783);Plasma membrane (GO:0005886)
+nEL01561,P26022,PTX3,100.02,PTX3,ENSG00000163661,PTX3,Uncertain,Plasma membrane,,Predicted to be secreted,,,,Plasma membrane,,,,Plasma membrane (GO:0005886)
+nEL01991,Q9HD89,Resistin,147.42,RETN,ENSG00000104918,,,,,,,,,,,,,
+nEL01111,P0DJI8,SAA,121.23,SAA1,ENSG00000288411,,,,,,,,,,,,,
+nEL01121,P21583,SCF,363.45,KITLG,ENSG00000049130,KITLG,Approved,Vesicles,,,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL03031,Q13291,SLAMF1 (CD150),31.74,SLAMF1,ENSG00000117090,,,,,,,,,,,,,
+nEL02551,O14836,TACI,172.06,TNFRSF13B,ENSG00000240505,,,,,,,,,,,,,
+nEL02281,P01137,TGF-beta 1 (LAP),177.92,TGFB1,ENSG00000105329,TGFB1,Approved,Golgi apparatus,Basal body;Cytosol,Predicted to be secreted,,,Basal body;Cytosol;Golgi apparatus,,Basal body,,,Basal body (GO:0036064);Cytosol (GO:0005829);Golgi apparatus (GO:0005794)
+nEL01132,P01137,TGF-beta 1 (total),81.42,TGFB1,ENSG00000105329,TGFB1,Approved,Golgi apparatus,Basal body;Cytosol,Predicted to be secreted,,,Basal body;Cytosol;Golgi apparatus,,Basal body,,,Basal body (GO:0036064);Cytosol (GO:0005829);Golgi apparatus (GO:0005794)
+nEL01481,P61812,TGF-beta 2,129.35,TGFB2,ENSG00000092969,TGFB2,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL01491,P10600,TGF-beta 3,140.32,TGFB3,ENSG00000119699,TGFB3,Enhanced,Vesicles,,Predicted to be secreted,Vesicles,,,,,,,Vesicles (GO:0043231)
+nEL02701,P36897,TGF-beta R1 (ALK5),60.16,TGFBR1,ENSG00000106799,TGFBR1,Supported,Plasma membrane,Primary cilium,,,Plasma membrane,,Primary cilium,,,,Plasma membrane (GO:0005886);Primary cilium (GO:0005929)
+nEL02711,P37173,TGF-beta R2,125.3,TGFBR2,ENSG00000163513,TGFBR2,Supported,Plasma membrane,,Predicted to be secreted,,Plasma membrane,,,Plasma membrane,,,Plasma membrane (GO:0005886)
+nEL02981,Q03167,TGF-beta R3,79.04,TGFBR3,ENSG00000069702,TGFBR3,Approved,Cytosol,,Predicted to be secreted,,,Cytosol,,,,,Cytosol (GO:0005829)
+nEL03121,Q15582,TGFBI (beta ig-h3),94.47,TGFBI,ENSG00000120708,,,,,,,,,,,,,
+nEL02631,P07204,Thrombomodulin,99.59,THBD,ENSG00000178726,THBD,Approved,Cytosol;Nucleoplasm,,,,,Cytosol;Nucleoplasm,,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654)
+nEL01141,Q02763,Tie-2,126.12,TEK,ENSG00000120156,TEK,Supported,Plasma membrane,Basal body;Centrosome,Predicted to be secreted,,Plasma membrane,,Basal body;Centrosome,Basal body;Plasma membrane,,,Basal body (GO:0036064);Centrosome (GO:0005813);Plasma membrane (GO:0005886)
+nEL01911,P01033,TIMP1,114.81,TIMP1,ENSG00000102265,TIMP1,Approved,Golgi apparatus;Vesicles,,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL02781,P16035,TIMP2,108.59,TIMP2,ENSG00000035862,,,,,,,,,,,,,
+nEL03271,Q99727,TIMP4,114.83,TIMP4,ENSG00000157150,,,,,,,,,,,,,
+nEL01411,P13726,Tissue Factor (TF),66.01,F3,ENSG00000117525,F3,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,Vesicles,,,Vesicles (GO:0043231)
+nEL02581,O60603,TLR2,143.59,TLR2,ENSG00000137462,TLR2,Supported,Plasma membrane,Cytosol;Nucleoplasm;Vesicles,,,Plasma membrane,,Cytosol;Nucleoplasm;Vesicles,,,,Cytosol (GO:0005829);Nucleoplasm (GO:0005654);Plasma membrane (GO:0005886);Vesicles (GO:0043231)
+nEL01152,P01375,TNF alpha,316.99,TNF,ENSG00000204490,,,,,,,,,,,,,
+nEL01161,P01374,TNF beta,35.86,LTA,ENSG00000226979,,,,,,,,,,,,,
+nEL01171,P19438,TNF R1,551.61,TNFRSF1A,ENSG00000067182,,,,,,,,,,,,,
+nEL01181,P20333,TNF R2,226.25,TNFRSF1B,ENSG00000028137,,,,,,,,,,,,,
+nEL01191,P36941,TNF R3,285.11,LTBR,ENSG00000111321,LTBR,Supported,Golgi apparatus,,,,Golgi apparatus,,,,,,Golgi apparatus (GO:0005794)
+nEL03001,Q07011,TNFRSF9 (4-1BB),205.39,TNFRSF9,ENSG00000049249,TNFRSF9,Approved,Plasma membrane,Nucleoli,,,,Nucleoli;Plasma membrane,,,,,Nucleoli (GO:0005730);Plasma membrane (GO:0005886)
+nEL01201,P40225,TPO,124.14,THPO,ENSG00000090534,,,,,,,,,,,,,
+nEL01211,P50591,TRAIL,68.82,TNFSF10,ENSG00000121858,,,,,,,,,,,,,
+nEL03381,Q9NP99,TREM1,303.49,TREM1,ENSG00000124731,TREM1,Approved,Golgi apparatus,,Predicted to be secreted,,,Golgi apparatus,,,,,Golgi apparatus (GO:0005794)
+nEL01571,Q9NZC2,TREM2,202.8,TREM2,ENSG00000095970,TREM2,Uncertain,Vesicles,,Predicted to be secreted,,,,Vesicles,,,,Vesicles (GO:0043231)
+nEL01221,Q969D9,TSLP,133.68,TSLP,ENSG00000145777,TSLP,Uncertain,Golgi apparatus;Vesicles,,Predicted to be secreted,,,,Golgi apparatus;Vesicles,Golgi apparatus,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL01231,O43508,TWEAK,181.12,TNFSF12,ENSG00000239697,TNFSF12,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,Vesicles,,,Vesicles (GO:0043231)
+nEL03361,Q9NP84,TWEAK R (CD266),81.98,TNFRSF12A,ENSG00000006327,TNFRSF12A,Approved,Cytosol;Plasma membrane,,,,,Cytosol;Plasma membrane,,,,,Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL01581,P00749,uPA,123.42,PLAU,ENSG00000122861,PLAU,Approved,Golgi apparatus;Vesicles,,Predicted to be secreted,,,Golgi apparatus;Vesicles,,,,,Golgi apparatus (GO:0005794);Vesicles (GO:0043231)
+nEL02991,Q03405,uPA R,123.6,PLAUR,ENSG00000011422,PLAUR,Supported,Plasma membrane,,,,Plasma membrane,,,,,,Plasma membrane (GO:0005886)
+nEL01241,P19320,VCAM-1,254.98,VCAM1,ENSG00000162692,VCAM1,Approved,Cell Junctions,,,,,Cell Junctions,,,,,Cell Junctions (GO:0030054)
+nEL01252,P15692,VEGF-A (165),133.89,VEGFA,ENSG00000112715,,,,,,,,,,,,,
+nEL01261,P49767,VEGF-C,107.34,VEGFC,ENSG00000150630,,,,,,,,,,,,,
+nEL01271,O43915,VEGF-D,184.61,VEGFD,ENSG00000165197,,,,,,,,,,,,,
+nEL01281,P17948,VEGF R1,147.71,FLT1,ENSG00000102755,FLT1,Supported,Plasma membrane,Actin filaments;Cytosol,Predicted to be secreted,,Plasma membrane,Actin filaments;Cytosol,,Plasma membrane,,,Actin filaments (GO:0015629);Cytosol (GO:0005829);Plasma membrane (GO:0005886)
+nEL01591,P35968,VEGF R2 (Flk-1),180.43,KDR,ENSG00000128052,KDR,Approved,Vesicles,Connecting piece;Cytosol;Mid piece;Nuclear membrane;Principal piece,,,Cytosol;Nuclear membrane,Connecting piece;Mid piece;Principal piece;Vesicles,,Connecting piece,,,Connecting piece ();Cytosol (GO:0005829);Mid piece ();Nuclear membrane (GO:0031965);Principal piece ();Vesicles (GO:0043231)
+nEL03331,Q9H7M9,VISTA,104.92,VSIR,ENSG00000107738,,,,,,,,,,,,,
+nEL03491,Q9Y5W5,WIF-1,115.38,WIF1,ENSG00000156076,,,,,,,,,,,,,
+nEL02011,O95388,WISP-1 (CCN4),106.24,CCN4,ENSG00000104415,CCN4,Approved,Cytosol,,Predicted to be secreted,,,Cytosol,,,,,Cytosol (GO:0005829)
+nEL02941,P56704,Wnt-3a,89.21,WNT3A,ENSG00000154342,WNT3A,Approved,Vesicles,,Predicted to be secreted,,,Vesicles,,,,,Vesicles (GO:0043231)
+nEL03181,P41221,Wnt-5a,299.93,WNT5A,ENSG00000114251,WNT5A,Uncertain,Microtubules;Mitotic spindle;Primary cilium,Nucleoli fibrillar center,Predicted to be secreted,,,,Microtubules;Mitotic spindle;Nucleoli fibrillar center;Primary cilium,Mitotic spindle;Primary cilium,,Mitotic spindle (biological definition),Microtubules (GO:0015630);Mitotic spindle (GO:0072686);Nucleoli fibrillar center (GO:0001650);Primary cilium (GO:0005929)
+nEL01621,P47992,XCL1 (Lymphotactin),86.38,XCL1,ENSG00000143184,,,,,,,,,,,,,
