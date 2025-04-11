@@ -1,0 +1,1 @@
+These data are whole-transcriptome measurements collected by the US EPA across 50 human cell lines to get a minimal set that cover most protein targets. The data are available here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE288929
