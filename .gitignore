@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# R-specific
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+*.Rproj
+
+# macOS system files
+.DS_Store
+
+# General backup/swap files
+*~
+*.swp
+*.swo
+
+# VS Code and editor settings
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
