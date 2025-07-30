@@ -1,5 +1,5 @@
-source("./Rscripts/gmd_functions.R")
-source("./Rscripts/cmd_functions.R")
+source("./01.dose_response/Rscripts/gmd_functions.R")
+source("./01.dose_response/Rscripts/cmd_functions.R")
 
 require(dplyr)
 require(arrow)
@@ -7,8 +7,8 @@ require(tidyr)
 require(stringr)
 
 
-input_file <- "../00.exploratory_analysis/inputs/CP_data/normalized.parquet"
-output_dist <- "./outputs/CP_distances.parquet"
+input_file <- "./00.exploratory_analysis/inputs/CP_data/normalized.parquet"
+output_dist <- "./01.dose_response/outputs/CP_distances.parquet"
 
 cover_var <- 0.975
 
